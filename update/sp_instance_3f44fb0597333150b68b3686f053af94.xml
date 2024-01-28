@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>3</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ff44fb0597333150b68b3686f053af89</sp_column>
+        <sp_widget display_value="Popular Topics">70a162c96be07410d70bc141ee44afba</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 14:33:19</sys_created_on>
+        <sys_id>3f44fb0597333150b68b3686f053af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_3f44fb0597333150b68b3686f053af94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 14:33:19</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"widget_title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"topic_limit": {
+		"value": "4",
+		"displayValue": "4"
+	},
+	"display_size": {
+		"value": "Normal",
+		"displayValue": "Normal"
+	},
+	"border_color": {
+		"value": "",
+		"displayValue": "-- None --"
+	},
+	"hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"load_config": {
+		"value": "async",
+		"displayValue": "Asynchronous"
+	},
+	"show_empty_state": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=3f44fb0597333150b68b3686f053af94"/>
+</record_update>
